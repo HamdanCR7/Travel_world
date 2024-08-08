@@ -1,6 +1,9 @@
 body {
   background: lightblue;
+overflow-x: hidden;
 }
+img
+{max-width: 100% ;}
 p {
   font-family: cursive;
  
